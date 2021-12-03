@@ -29,6 +29,7 @@
 		"pug": "^3.0.2",
 		"pug-plain-loader": "^1.1.0",
 		"sass-loader": "^10.1.1",
-		"urn-trx-dep-dev": "git+ssh://git@bitbucket.org/nbl7/urn-trx-dep-dev.git"
+		"urn-trx-dep-dev": "git+ssh://git@bitbucket.org/nbl7/urn-trx-dep-dev.git",
+		"vue-typed-mixins": "^0.2.0"
 	}
 }
