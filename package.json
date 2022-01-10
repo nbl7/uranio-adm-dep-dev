@@ -18,6 +18,9 @@
 	"author": "Andrea Reni <mail@nbl7.net>",
 	"license": "ISC",
 	"homepage": "https://github.com/nbl7/uranio-adm-dep-dev#readme",
+	"resolutions": {
+		"@oclif/plugin-help": "3.2.14"
+	},
 	"dependencies": {
 		"@nuxt/types": "^2.15.8",
 		"@nuxt/typescript-build": "^2.1.0",
