@@ -19,18 +19,20 @@
 	"license": "ISC",
 	"homepage": "https://github.com/nbl7/uranio-adm-dep-dev#readme",
 	"dependencies": {
-		"uranio-dev": "git+ssh://git@github.com/nbl7/uranio-dev.git#master",
 		"@nuxt/types": "^2.15.8",
 		"@nuxt/typescript-build": "^2.1.0",
 		"@nuxt/typescript-runtime": "^2.1.0",
 		"@nuxtjs/eslint-config-typescript": "^8.0.0",
 		"@nuxtjs/style-resources": "^1.2.1",
 		"@types/minimist": "^1.2.2",
+		"patch-package": "^6.4.7",
+		"postinstall-postinstall": "^2.1.0",
 		"pug": "^3.0.2",
 		"pug-plain-loader": "^1.1.0",
 		"sass": "^1.49.8",
 		"sass-loader": "^10.1.1",
 		"ts-loader": "^8.2.0",
+		"uranio-dev": "git+ssh://git@github.com/nbl7/uranio-dev.git#master",
 		"vue-typed-mixins": "^0.2.0"
 	}
 }
