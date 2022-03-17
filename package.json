@@ -29,7 +29,6 @@
 		"postinstall-postinstall": "^2.1.0",
 		"pug": "^3.0.2",
 		"pug-plain-loader": "^1.1.0",
-		"sass": "1.43.4",
 		"ts-loader": "^8.2.0",
 		"uranio-dev": "git+ssh://git@github.com/nbl7/uranio-dev.git#master",
 		"vue-typed-mixins": "^0.2.0"
