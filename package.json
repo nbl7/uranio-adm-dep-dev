@@ -9,15 +9,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com/nbl7/uranio-adm-dep-dev.git"
+		"url": "git+ssh://git@github.com/x71c9/uranio-adm-dep-dev.git"
 	},
 	"keywords": [
 		"uranio",
 		"urn"
 	],
-	"author": "Andrea Reni <mail@nbl7.net>",
+	"author": "Andrea Reni <108585118+x71c9@users.noreply.github.com>",
 	"license": "ISC",
-	"homepage": "https://github.com/nbl7/uranio-adm-dep-dev#readme",
+	"homepage": "https://github.com/x71c9/uranio-adm-dep-dev#readme",
 	"dependencies": {
 		"@nuxt/types": "^2.15.8",
 		"@nuxt/typescript-build": "^2.1.0",
@@ -31,7 +31,7 @@
 		"pug-plain-loader": "^1.1.0",
 		"ts-loader": "^8.2.0",
 		"sass":"1.43.2",
-		"uranio-dev": "git+ssh://git@github.com/nbl7/uranio-dev.git#master",
+		"uranio-dev": "git+ssh://git@github.com/x71c9/uranio-dev.git#master",
 		"vue-typed-mixins": "^0.2.0"
 	}
 }
