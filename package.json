@@ -1,5 +1,6 @@
 {
 	"name": "urn-adm-dep-dev",
+	"license": "UNLICENSED",
 	"version": "0.0.1",
 	"description": "Uranio admin dev dependencies",
 	"main": "dist/index.js",
@@ -16,7 +17,6 @@
 		"urn"
 	],
 	"author": "Andrea Reni <108585118+x71c9@users.noreply.github.com>",
-	"license": "ISC",
 	"homepage": "https://github.com/x71c9/uranio-adm-dep-dev#readme",
 	"dependencies": {
 		"@nuxt/types": "^2.15.8",
