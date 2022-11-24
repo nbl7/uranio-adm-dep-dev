@@ -31,7 +31,7 @@
 		"pug-plain-loader": "^1.1.0",
 		"ts-loader": "^8.2.0",
 		"sass":"1.43.2",
-		"uranio-dev": "git+ssh://git@github.com/x71c9/uranio-dev.git#master",
+		"uranio-dev": "https://github.com/x71c9/uranio-dev.git#master",
 		"vue-typed-mixins": "^0.2.0"
 	}
 }
